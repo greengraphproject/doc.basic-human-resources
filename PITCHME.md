@@ -8,11 +8,11 @@
 ### HRのミッションをこう考える
 
 ---
-@snap[west]
+@snap[west span-50]
 ![Value Chain](images/hr-value-chain.png)
 @snapend
 
-@snap[east]
+@snap[east span-50]
 ## <u>バリューチェーン上のポジション</u>
 ### HRは支援活動
 #### 組織の土台
