@@ -2,7 +2,7 @@
 基本的なビジネスプロセスの説明
 
 ---
-@snap[east span-50]
+@snap[east span-50 text-left]
 #### <u>HR(Human Resources)</u>
 ##### HR->人事のこと
 
@@ -15,7 +15,7 @@
 ![Value Chain](images/hr-value-chain.png)
 @snapend
 
-@snap[east span-50]
+@snap[east span-50 text-left]
 #### <u>バリューチェーン上のポジション</u>
 ##### HRは支援活動
 ###### 組織の土台
@@ -29,12 +29,15 @@ e.g.海外では営業部が営業員を採用 etc.
 ![Primary](images/hr-primary-process.png)
 @snapend
 
-@snap[east span-50]
+@snap[east span-50 text-left]
 #### <u>プライマリ・プロセス</u>
 @snapend
 
 ---
-@snap[east span-50]
+@snap[west span-50]
+@snapend
+
+@snap[east span-50 text-left]
 #### <u>プロセスグループ</u>
 - 採用、教育、評価をもってミッションを果たす
 - バラバラにやってもダメ
